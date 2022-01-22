@@ -1,0 +1,18 @@
+Name 12
+Recipt NO.
+
+Name 12
+
+Age 12
+Gender You Have Selected Both
+Address abv
+Medicine_1 napa	Per Unit Price 10	Total Unit 100
+Medicine_2 omatozol	Per Unit Price 3	Total Unit 10
+Medicine_3 None	Per Unit Price 0	Total Unit 0
+Medicine_4 None	Per Unit Price 0	Total Unit 0
+Medicine_5 None	Per Unit Price 0	Total Unit 0
+Medicine_6 None	Per Unit Price 0	Total Unit 0
+Medicine_7 None	Per Unit Price 0	Total Unit 0
+Medicine_1 None	Per Unit Price 0	Total Unit 0
+Medicine_9 None	Per Unit Price 0	Total Unit 0
+
